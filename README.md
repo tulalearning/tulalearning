@@ -1,8 +1,8 @@
-- 👋 Hello World, I’m @Tulanun Jiangpradit :basketball:
-- 💞️ I’m looking to collaborate on Backend Project (NodeJs,Express, NestJS framework), Database Design :space_invader:
-- 👀 I’m interested in Coding :computer:, Play Game :video_game:, See the movie :movie_camera: and travel :airplane: :ocean:
-- 🌱 I’m currently learning : TypeScript NestJS PostgresSQL :books:
-- 📫 How to reach me tulanun.ite@gmai.com :email:
+- 👋 Hello World, I’m @Tulanun Jiangpradit
+- 💻 I’m looking to collaborate on Backend Project (NodeJs,Express, NestJS framework), Database Design
+- 📚 I’m currently learning : Advance Backend development, ReactJS
+- 👀 I’m interested in Coding, Play Game, See the movie and travel
+- 📧 How to reach me tulanun.ite@gmail.com
 
  >**"To infinity and beyond." - Buzz Lightyear, from Toy Story -** :rocket: :waxing_crescent_moon:
  >
