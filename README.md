@@ -20,6 +20,12 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+### Socials
+<p align="left">
+<a href="https://www.github.com/tulalearning" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/tulanun-jiangpradit-421a52184/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
                     
 ### Badges 
 <p><b>My GitHub Stats</b></p>
@@ -30,11 +36,7 @@
  >
  >**"The flower that blooms in adversity is the most rare and beautiful of all." The Emperor, from Mulan -** :maple_leaf: :cherry_blossom:
 
-### Socials
-<p align="left">
-<a href="https://www.github.com/tulalearning" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/tulanun-jiangpradit-421a52184/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+
 
 <!---
 tulalearning/tulalearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
