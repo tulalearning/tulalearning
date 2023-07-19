@@ -1,7 +1,7 @@
 # Hi, My Name is Tulanun Jiangpradit 👋 
-### Software Engineering (NodeJS)
-- 💻 I’m looking to collaborate on Backend Project (NodeJs,Express, NestJS framework), Database Design, Game Builder
-- 📚 I’m currently learning : Advance Backend development, ReactJS
+### Software Engineering Lead (NodeJS)
+- 💻 I’m looking to collaborate on Backend Project (NodeJs, Express, NestJS framework), Database Design, Game Builder
+- 📚 I’m currently learning: Advance Backend development, ReactJS
 - 📧 How to reach me tulanun.ite@gmail.com
 
 ### Skills 
